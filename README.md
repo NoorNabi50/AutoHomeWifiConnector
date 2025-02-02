@@ -1,0 +1,1 @@
+AutoHomeWifiConnector is a C# console application I developed to automate switching to stronger Wi-Fi connection on windows OS using the ManagedNativeWifi NuGet package and Windows Task Scheduler, the program runs after set intervals to connect the best strength wifi signal, this program significantly enhancing my productivity by eliminating the need for changing wifi manually. 
